@@ -8,6 +8,7 @@ https://mallangworld.tistory.com/entry/torchcudaisavailable-False%EC%97%90%EC%84
 이 사이트를 참고했을 때 터미널에 nvidia-smi 이걸쳐서 내 컴퓨터의 cuda 지원 버전을 알아냄.
 내가 설치한것은 10.1인데 내 컴퓨터는 10.2를 지원해서
 pytorch를 다 지우고 10.2로 다시 깐 결과 true로 나왔다!
+-> 아나콘다 가상환경 이름: gpu
 
 ### tensor cpu로 바꿔줄 때 오류
 
