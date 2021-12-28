@@ -18,8 +18,13 @@
 
 ->의미없는 데이터를 가지고 시각화를 진행함..
 
+![image](https://user-images.githubusercontent.com/74500793/147546767-6c985441-5dfd-4828-80f5-8def5f80a54b.png)
+
+
 그래서 공원 1개를 기준으로 온도를 x축으로 하여 그래프를 그려봄.
 
 근데 이것도 별반 다르지 않을 것으로 예상되어 샘플로 하나만 그려봄
+
+![image](https://user-images.githubusercontent.com/74500793/147546897-2e7c9921-01d0-47b8-b807-cbad2e58e5b5.png)
 
 교수님과 미팅을 통해 말씀드리고 싶었으나, 연구실이 너무 바쁜 관계로 오늘은 미팅을 못함.
